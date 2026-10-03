@@ -1,0 +1,23 @@
+Stage 9 - Reproducibility Report
+
+Synthetic data:
+  same values: True
+  first demand hash: 4a13f4e69fb35ea67727b47bd1768c611a9c207f4c230e504b33720ccecc4644
+  second demand hash: 4a13f4e69fb35ea67727b47bd1768c611a9c207f4c230e504b33720ccecc4644
+
+Attention training:
+  same loss history: True
+  same parameters: True
+  same training mean: True
+  same training std: True
+  first final train loss: 0.332599133253
+  second final train loss: 0.332599133253
+
+Environment:
+  Python: 3.12.3
+  Platform: Linux-6.8.0-87-generic-x86_64-with-glibc2.39
+  NumPy: 2.5.3
+  PyTorch: 2.14.1+cu130
+  Seed: 42
+
+REPRODUCIBILITY CHECK: PASS
