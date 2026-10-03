@@ -339,12 +339,6 @@ project/
 ├── Distribution_shift/
 ├── Failure_investigation/
 ├── Reproducibility/
-├── Final_verification/
-├── 01_Phase_0_Design_Document.pdf
-├── 02_Mathematical_Derivation.pdf
-├── 03_Experiment_Report.pdf
-├── 04_Reflection_Report.pdf
-├── 05_AI_Tools_Document.pdf
 └── README.md
 ```
 
